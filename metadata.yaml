@@ -1,0 +1,30 @@
+_repo: Walls-of-Acid_28045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hasse, Henry
+    alias: Hasse, Henry Louis
+    birthdate: 1913
+    deathdate: 1977
+    gutenberg_agent_id: '32816'
+    url: http://www.gutenberg.org/2009/agents/32816
+description: Five millenniums have passed since the loathsome Termans were eliminated
+  from the world of Diskra.... But what of the other planets?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Walls of Acid
+url: http://www.gutenberg.org/ebooks/28045
